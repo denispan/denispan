@@ -1,7 +1,8 @@
 ###  👋 Привет!
-Меня зовут Денис. Я фронтенд разработчик, будущий fullstack)
+Меня зовут Денис. Я фронтенд разработчик, потенциальный fullstack)
+<br/>
 ---
-📫 Контакты :
+📫 Контакты : <br/>
 <div id="badges">
   <a href="https://www.linkedin.com/in/denpan/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -17,6 +18,7 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeSctipt-316192?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![React Query](https://img.shields.io/badge/react_query-grey?style=for-the-badge&logo=react-query&logoColor=red)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Gatsby](https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white)
