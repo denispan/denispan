@@ -29,16 +29,3 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
----
-⚙️ Аналитика : 
-
-<table>
-  <tr>
-    <td>
-      <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=denispan&theme=algolia" alt="Github stats" />
-    </td>
-    <td>
-      <img height="195px" align="right" alt="Github Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=denispan&theme=algolia&layout=compact" />
-    </td>
-  </tr>
-</table>
